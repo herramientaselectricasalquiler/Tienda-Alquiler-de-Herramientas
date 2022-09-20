@@ -1,0 +1,12 @@
+.login-imagen{
+    background: url("../img/login.jpg");
+    background-position: center;
+    background-size: cover;
+    border: 0px;
+    height: 400px;
+    background-repeat: no-repeat;
+}
+.sizeDiv{
+    width: 40vw;
+    
+}
